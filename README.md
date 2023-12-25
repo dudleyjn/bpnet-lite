@@ -9,7 +9,7 @@ bpnet-lite is a lightweight version of BPNet [[paper](https://www.nature.com/art
 
 You can install bpnet-lite with `pip install bpnet-lite`.
 
-install on mctp cluster working with python 3 and mamba install pybigwig
+install on mctp cluster working with python 3.10 and mamba install pybigwig separtely then pip install the above
 
 ## BPNet
 
